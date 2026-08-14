@@ -208,12 +208,3 @@ I'm open to connecting with developers, recruiters, and teams working on interes
   <a href="https://www.linkedin.com/in/sabareeswaran-sundaramoorthy-574787304/">LinkedIn</a> |
   <a href="https://github.com/Sundarsabaree/portfolio">Portfolio</a>
 </p>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-<br>
-<p align="center">Thanks for visiting my profile! Let's connect and build something meaningful together. 🚀</p>
-<p align="center">
-  <a href="https://github.com/sabareeswans101">GitHub</a> |
-  <a href="https://www.linkedin.com/in/sabareeswaran-sundaramoorthy-574787304/">LinkedIn</a> |
-  <a href="https://github.com/Sundarsabaree/portfolio">Portfolio</a>
-</p>
