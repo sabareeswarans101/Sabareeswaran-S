@@ -1,10 +1,22 @@
 <h1 align="center">SABAREESWARAN S</h1>
 <p align="center"><strong>B.Sc Computer Science Student | Aspiring Software Developer</strong></p>
-<p align="center">
+<table>
+<tr>
+<td width="60%" valign="center">
   <a href="https://github.com/sabareeswans101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sabareeswaran-sundaramoorthy-574787304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sundarsabaree/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+  <a href="https://github.com/Sundarsabaree/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</td>
+</td>
+
+<td width="40%" align="center">
+
+<img src="./developer.gif" width="300">
+
+</td>
+</tr>
+</table>
 <p align="center">📍 Avinashi, Tiruppur, Tamil Nadu, India</p>
 <br>
 ## 👋 Introduction
