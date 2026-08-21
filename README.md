@@ -1,10 +1,10 @@
 <h1 align="center">SABAREESWARAN S</h1>
-<p align="center"><strong>B.Sc Computer Science Student | Aspiring Software Developer</strong></p>
+<p align="center"><strong>BE.Computer Science Student | Aspiring Software Developer</strong></p>
 
 <p align="center">
   <a href="https://github.com/sabareeswans101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sabareeswaran-sundaramoorthy-574787304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sundarsabaree/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://sundarsabaree.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">📍 Avinashi, Tiruppur, Tamil Nadu, India</p>
@@ -19,7 +19,7 @@ Hi, I'm Sabareeswaran S — a Computer Science student developing my programming
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc Computer Science student
+- 🎓 BE.Computer Science student
 - 💻 Java Development
 - 🌐 Web Development
 - 📊 Data Science
@@ -136,7 +136,7 @@ AI-Assisted Content Creation · Social Media Marketing · Branding · Digital Ma
 ## 🎓 Education
 
 **KGISL Institute of Technology**
-B.Sc Computer Science — Tamil Nadu, India
+BE.Computer Science — Tamil Nadu, India
 
 <br>
 
